@@ -1,4 +1,4 @@
-a=eval(input("enter the range"))
+a=int(input("enter the range"))
 i=0
 first_value=0
 second_value=1
@@ -10,4 +10,4 @@ while(i<a):
         first_value=second_value
         second_value=next
     print(next)
-    i=i+1 
+    i=i+1
