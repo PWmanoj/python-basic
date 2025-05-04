@@ -10,5 +10,4 @@ while(i<a):
         first_value=second_value
         second_value=next
     print(next)
-    i=i+1
-
+    i=i+1 
